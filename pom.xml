@@ -22,9 +22,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-	</properties>
-	<properties>
-                <sonar.projectKey>meenakshi-saripalli_sonarcloud-demo</sonar.projectKey>
+	        <sonar.projectKey>meenakshi-saripalli_sonarcloud-demo</sonar.projectKey>
                 <sonar.organization>meenakshi-saripalli</sonar.organization>
                 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
                 <sonar.login>06da0bf62d802d4ad78764e475ed129c576a698f</sonar.login>
