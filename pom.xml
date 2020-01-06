@@ -25,7 +25,7 @@
 	        <sonar.projectKey>meenakshi-saripalli_sonarcloud-demo</sonar.projectKey>
                 <sonar.organization>meenakshi-saripalli</sonar.organization>
                 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-                <sonar.login>06da0bf62d802d4ad78764e475ed129c576a698f</sonar.login>
+                <sonar.login>4c912e0a0e8a471f418b4e69df7eba79bbe9c178</sonar.login>
         </properties>
 
 	<dependencies>
